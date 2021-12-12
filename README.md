@@ -1,4 +1,4 @@
-# Qoogle
+# Qoogle Chrome Extension
 Quicker, keyboard-based google
 
 ## What it does
